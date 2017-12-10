@@ -5,6 +5,10 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * @author compaq springboot application
+ *
+ */
 @RestController
 @EnableAutoConfiguration
 @SpringBootApplication
